@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+
 # 📊 Análise Preditiva de Evasão de Clientes (Churn)
 
 Este projeto realiza uma análise completa sobre a evasão de clientes (churn) em uma empresa de telecomunicações. O objetivo é não apenas construir um modelo de machine learning para prever quais clientes têm maior probabilidade de sair, mas também extrair **insights acionáveis** para fundamentar estratégias de retenção.
